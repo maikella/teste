@@ -1,4 +1,6 @@
-﻿# Conta Bancária
+﻿<div id="top"></div>
+
+# Conta Bancária
 
 Projeto para praticar conceitos de Orientação a Objetos do Java!
 
@@ -9,6 +11,7 @@ Projeto para praticar conceitos de Orientação a Objetos do Java!
 * [Pré-requisitos](#pre)
 * [Tecnologias](#tecnologias)
 * [Licença](#licença)
+* [Autor](#autor)
 <div id="conceitos"></div>
 
 ## Conceitos
@@ -42,5 +45,9 @@ Projeto para praticar conceitos de Orientação a Objetos do Java!
 ## Licença
 
 Licenciado pelo MIT
+<div id="autor"></div>
 
-<!--Feito por [Maycon Mendes](linkedin.com/in/maikella)-->
+## Autor
+
+Feito por [Maycon Mendes](https://www.linkedin.com/in/maikella/) 
+<p align ="right">(<a href="#top">back to top</a>)</p>
